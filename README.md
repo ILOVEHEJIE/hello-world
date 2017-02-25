@@ -1,2 +1,4 @@
 # hello-world
-Just another reposiiitory
+Just another repository
+ilovehejie
+iloveyoutoo
